@@ -1,0 +1,8 @@
+version: "3"
+
+tasks:
+  setup:
+    desc: Configure local git settings required for this repo
+    cmds:
+      - git config merge.ours.driver true
+      - echo "✅ Git merge driver configured"
