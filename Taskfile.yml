@@ -2,7 +2,6 @@ version: "3"
 
 tasks:
   setup:
-    desc: Configure local git settings required for this repo
+    desc: Initialize local development environment
     cmds:
-      - git config merge.ours.driver true
-      - echo "✅ Git merge driver configured"
+      - echo "✅ Ready to develop"

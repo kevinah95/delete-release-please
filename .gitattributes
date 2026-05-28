@@ -1,4 +1,0 @@
-# Keep current branch versions of release-please files when merging between branches.
-# Requires one-time local setup: git config merge.ours.driver true
-release-please-config.json merge=ours
-.release-please-manifest.json merge=ours
