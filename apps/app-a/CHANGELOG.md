@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0-alpha.1](https://github.com/kevinah95/delete-release-please/compare/app-a-v0.3.0-alpha...app-a-v0.3.0-alpha.1) (2026-05-28)
+
+
+### Bug Fixes
+
+* **app-a:** handle missing APP_ENV variable ([b692199](https://github.com/kevinah95/delete-release-please/commit/b6921994d2a210e70d7d0269302bb931e96b09a2))
+
 ## [0.3.0-alpha](https://github.com/kevinah95/delete-release-please/compare/app-a-v0.2.0...app-a-v0.3.0-alpha) (2026-05-28)
 
 
