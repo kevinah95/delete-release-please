@@ -1,3 +1,4 @@
 {
-  "apps/app-a": "0.1.0"
+  "apps/app-a": "0.1.0",
+  "apps/app-b": "0.1.0"
 }
