@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/kevinah95/delete-release-please/compare/app-a-v0.3.0...app-a-v0.4.0) (2026-05-28)
+
+
+### Features
+
+* **app-a:** add structured logger module ([33247f8](https://github.com/kevinah95/delete-release-please/commit/33247f89514709fecffe6d92d6611f12ff056864))
+
 ## [0.3.0](https://github.com/kevinah95/delete-release-please/compare/app-a-v0.2.0...app-a-v0.3.0) (2026-05-28)
 
 
