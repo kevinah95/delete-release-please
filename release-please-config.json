@@ -2,6 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
   "prerelease": true,
   "versioning": "prerelease",
+  "bootstrap-sha": "ba522a3e61eaa73eb4c282d3919ae15a6c3f2241",
   "packages": {
     "apps/app-a": {
       "component": "app-a",
